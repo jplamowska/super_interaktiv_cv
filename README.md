@@ -2,7 +2,6 @@
 
 
 
-
 *Zainteresowania*:
 * podróże
 * narty
@@ -12,3 +11,7 @@
 ### ulubione narzędzia testerskie:
 - JIRA 
 - ...
+
+
+Języki programowania:
+- Python
